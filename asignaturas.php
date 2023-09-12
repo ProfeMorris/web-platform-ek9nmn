@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Other page</title>
+    <title>Asignaturas</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" href="styles.css" />
@@ -12,10 +12,10 @@
   </head>
   <body>
     <nav>
-      <a href="/index.php">Alum</a>
-      <a href="/page2.html">Docentes</a>
+      <a href="/index.php">Alumnos</a>
+      <a href="/docentes.html">Docentes</a>
       <a href="/" aria-current="page"">Asignaturas</a>
-      <a href="/page2.html">Alumnos_Asignaturas</a>
+      <a href="/alumnos_asignaturas.html">Alumnos_Asignaturas</a>
     </nav>
     <main>
       <form>
