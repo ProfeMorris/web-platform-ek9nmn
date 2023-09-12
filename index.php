@@ -1,3 +1,6 @@
+<?php
+  include ("conexion.php");
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -15,11 +18,11 @@
     <nav>
       <a href="/" aria-current="page">Alumnos</a>
       <a href="/docentes.html">Docentes</a>
-      <a href="/asignaturas.html">Asignaturas</a>
+      <a href="/asignaturas.php">Asignaturas</a>
       <a href="/alumnos_asignaturas.html">Alumnos_Asignaturas</a>
     </nav>
     <main>
-      <form>
+      <form >
         <h1>FORMULARIO ALUMNOS</h1>
         <div>
           <div>
